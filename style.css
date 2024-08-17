@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+  }
+  
+  canvas {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  #overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    z-index: 10;
+    overflow: hidden;
+  }
+  
+  #overlay-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('background-image.jpg') no-repeat center center/cover;
+    filter: blur(8px);
+    z-index: 1;
+  }
+  
+  #instructions {
+    position: relative;
+    text-align: center;
+    z-index: 2;
+    animation: fadeIn 2s ease-in-out;
+    font-family: 'Pacifico', cursive; /* Keep the interesting font for h1 */
+  }
+  
+  #instructions h1 {
+    font-size: 3em; /* Increase the font size of h1 */
+  }
+  
+  #instructions p {
+    font-size: 1.5em; /* Increase the font size of p */
+    font-family: 'Roboto', sans-serif; /* Adding a more readable font */
+  }
+  
+  #start-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #2980b9;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  #start-button:hover {
+    background-color: #1b5f8a;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .canvas-border {
+    z-index: 0;
+  }
+  
