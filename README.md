@@ -3,7 +3,7 @@
 ### What is Make it POP! ?
 
 
-### How to Use and Start
+### How to Use
 
 
 
