@@ -1,6 +1,6 @@
 # Make it POP!
 
-[<img src="insert name" alt="Foto van het begin scherm" width="800">](insert link)
+[<img src="insert name" alt="Foto van het begin scherm" width="800">](insert link)<br>
  (klik op de afbeelding om een video te zien)
 
 ### What is Make it POP! ?
