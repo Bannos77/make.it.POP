@@ -11,7 +11,7 @@ Dit is een teken uitdaging dat is geinspireerd door een tekentechniek dat ik heb
 Hier bij daag ik u uit. Start de code (see "How to Use) en ga met uw hand 1m ongeveer van de webcam staan. Klik op spatie om te starten en maak een lijn tekening met één hand zichtbaar voor de camera. En als je het duft maak een vuist "to Make it POP!"<br>
 <img src="img/openhand.jpeg" alt="open hand" width="200"> <img src="img/imgfist.jpeg" alt="fist" width="300"> <br>
 
-Ik heb dit gamaakt om mijzelf met 2 dingen te helpen arm en schouderbeweging en om weer terug creatief bezig te zijn. Daardoor heb ik hiervan een simpel mini game van gemaakt dat u creatief uitdaagt en dat bijna iedereen kan doen.
+Ik heb dit gamaakt om mijzelf met 2 dingen te helpen, arm en schouderbeweging en om weer terug creatief bezig te zijn. Daardoor heb ik hiervan een simpel mini game van gemaakt dat u creatief uitdaagt en dat bijna iedereen kan doen.
 
 ### How to Use
 
