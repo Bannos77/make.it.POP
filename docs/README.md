@@ -28,7 +28,7 @@ Eenmaal je dit hebt gedaan kan je zegmaar de code gebruike. Dit ga ga je doen do
 
 <ul>Mogelijke problemen dat je kan tegen komen:<br>
 <li>Zie dat je kan connecten aan een webcam om de python code te gebruiken.</li>
-<li>Volgende is kijken hoe ver je de camera sensor wil gebruiken en verander in de code als het moet (standaard staat op +/- 1m) Anders zal het clicken met je hand moeilijk gaan. (bekijk Javascript om te zien hoe je dit moet veranderen)</li>
+<li>Volgende is kijken hoe ver je de camera sensor wil gebruiken en verander in de code als het moet (standaard staat op +/- 1m) Anders zal het clicken met je hand moeilijk gaan. (bekijk Python om te zien hoe je dit moet veranderen)</li>
 <li>Zorg ervoor dat de camera maar een hand ziet anders weet hij niet welke hand hij moet gebruiken als muis en flipt die een beetje.</li>
 </ul>
 
@@ -84,3 +84,5 @@ Als je de lengte van inactivety wilt veranderen doet dat aan de top van de code 
 <br>
 
 ### PYTHON
+
+Bij de python code heb ik hetzelfde gedaan als bij de javascript. Elke gedeelte van de code dat iets doet heb ik een titel gegeven. Dus ik ga een beetje hetzelfde doen als bij de vorige gedeeldte en ga stukken code eruithalen dat ik een beetje extra uitlag wil geven.<br>
