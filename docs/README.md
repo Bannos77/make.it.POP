@@ -8,7 +8,7 @@
 Dit is een teken uitdaging dat is geinspireerd door een tekentechniek dat ik heb gebruikt tijdens modeltekenen.<br>
 <img src="inset name" alt="name" width="x"> <br>
 
-Hier bij daag ik u uit. Start de code (see "How to Use) en ga met uw hand 1m ongeveer van de webcam staan. Klik op spatie om te starten en maak een lijn tekening en als je het duft maak een vuist met de duim vooraan "to Make it POP!"<br>
+Hier bij daag ik u uit. Start de code (see "How to Use) en ga met uw hand 1m ongeveer van de webcam staan. Klik op spatie om te starten en maak een lijn tekening met één hand zichtbaar voor de camera. En als je het duft maak een vuist "to Make it POP!"<br>
 <img src="inset name" alt="name" width="x"> <br>
 
 Ik heb dit gamaakt om mijzelf met 2 dingen te helpen arm en schouderbeweging en om weer terug creatief bezig te zijn. Daardoor heb ik hiervan een simpel mini game van gemaakt dat u creatief uitdaagt en dat bijna iedereen kan doen.
