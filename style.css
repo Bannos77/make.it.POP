@@ -42,16 +42,16 @@ body {
     text-align: center;
     z-index: 2;
     animation: fadeIn 2s ease-in-out;
-    font-family: 'Pacifico', cursive; /* Keep the interesting font for h1 */
+    font-family: 'Pacifico', cursive;
   }
   
   #instructions h1 {
-    font-size: 3em; /* Increase the font size of h1 */
+    font-size: 3em;
   }
   
   #instructions p {
-    font-size: 1.5em; /* Increase the font size of p */
-    font-family: 'Roboto', sans-serif; /* Adding a more readable font */
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
   }
   
   #start-button {

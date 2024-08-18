@@ -34,6 +34,8 @@ Eenmaal je dit hebt gedaan kan je zegmaar de code gebruike. Dit ga ga je doen do
 
 ## The Code
 
+De code is ingedeeld in 4 hoofdstukken. Ik ga bij elke hoofstuk uitleggen wat ze doen en code eruit highlighten dat extra uitleg nodig heeft.
+
 ### HTML
 
 ### CSS

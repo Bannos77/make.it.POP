@@ -8,10 +8,10 @@ var animations = [];
 var circles = [];
 var mousePath = [];
 var devicePixelRatio = window.devicePixelRatio || 1;
-var drawingEnabled = false; // New variable to track drawing state
-var automaticAnimationInterval; // New variable for interval ID
+var drawingEnabled = false;
+var automaticAnimationInterval;
 var inactivityTimeout = 30000; // 30 seconds
-var inactivityCheckInterval; // Interval to check for inactivity
+var inactivityCheckInterval;
 
 // 2. Color Picker Module
 var colorPicker = (function() {
@@ -51,7 +51,7 @@ function addClickListeners() {
 
 // 6. Event Handling
 function handleEvent(e) {
-  if (!drawingEnabled && !e.automatic) return; // Disable drawing if overlay is active and not automatic
+  if (!drawingEnabled && !e.automatic) return;
 
   if (!e.automatic && e.touches) {
     e.preventDefault();
@@ -176,16 +176,16 @@ function invertColor(hex) {
 // 10. Mouse Movement Handling
 var mouseX = 0;
 var mouseY = 0;
-var invertMode = false; // Track the inversion mode state
+var invertMode = false;
 var lastActivityTime = Date.now();
 
 function onMouseMove(e) {
-  if (!drawingEnabled) return; // Disable drawing if overlay is active
+  if (!drawingEnabled) return;
 
   mouseX = e.pageX;
   mouseY = e.pageY;
   mousePath.push({ x: mouseX, y: mouseY });
-  lastActivityTime = Date.now(); // Update last activity time
+  lastActivityTime = Date.now();
 }
 
 document.addEventListener("mousemove", onMouseMove);
@@ -238,10 +238,10 @@ setup();
 
 // 14. Start Button Handling
 function startDrawing() {
-  drawingEnabled = true; // Enable drawing
-  document.getElementById("overlay").style.display = "none"; // Hide the overlay
-  stopAutomaticAnimation(); // Stop automatic animations
-  lastActivityTime = Date.now(); // Reset last activity time
+  drawingEnabled = true;
+  document.getElementById("overlay").style.display = "none"; 
+  stopAutomaticAnimation(); 
+  lastActivityTime = Date.now();
 }
 
 document.getElementById("start-button").addEventListener("click", startDrawing);
@@ -273,7 +273,7 @@ function startInactivityCheck() {
   inactivityCheckInterval = setInterval(function() {
     var currentTime = Date.now();
     if (currentTime - lastActivityTime > inactivityTimeout) {
-      location.reload(); // Reload the page after 30 seconds of inactivity
+      location.reload();
     }
   }, 1000); // Check every second
 }
