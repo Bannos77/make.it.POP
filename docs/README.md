@@ -41,14 +41,46 @@ De code is ingedeeld in 4 hoofdstukken. Ik ga bij elke hoofstuk uitleggen wat ze
 De html is is niet al te ingewikkeld en bijna spreekt voorzich. Toch ga ik het een beetje uitleggen. De `<div id="overlay">` is vooral u start pagina en legt uit wat je hoe je het spel moet spelen. Daarna komt de `<div id="canvas">` en deze zocht voor de animaties en draw functies.<br>
 Natuurlijk komt de 2 scripts hierna. De eerste is is voor de animatie en de tweede is de script waar wij aan kunnen knoeien en werken.
 
-<img src="inset name" alt="name" width="x"> <br>
+<img src="inset name" alt="name" width="x">
+<br>
+<br>
 
 ### CSS
 
 De css is vooral voor de start pagina. Dit gaat vooral over de `overlay` overgang animatie en hoe de tekst en startknop eruitziet.<br>
 Dat is niet alles er is een klein stukje voor de `canvas` en dat is de canvas size.<br>
 Hier kan je vooral knoeie aan de font size, welke font de tekst aantoont en de knop om het persoonlijker te maken.
+<br>
+<br>
 
 ### JAVASCRIPT
+
+Nu komt de grote stuk van de code. Deze heb ik al voor jullie zelfs in de code zelf ingedeeld in hoofdstukken dat titels heeft met wat wat doet om dit geen info dump te worden.<br>
+Toch ga ik er een paar stukjes eruithalen dat toch extra info nodig heeft.<br>
+Als eerste zal ik de hoofstuk 6. Event Handling bespreken.<br>
+Ik haal deze naarboven omdat het niet echt voorzich spreekt wat het doet maar simpel weg dit zorgt voor de pop animaties dat de lijn tekening weghaalt en alles van kleur laat veranderen.
+
+<img src="inset name" alt="name" width="x"> <br>
+
+Volgende zal ik hoofstuk // 12. Animation Loop naarboven halen.<br>
+Deze zegt ook niet echt wat het doet. Dit is de lijn dat vormt nadat je je muis od hand beweegt. Hier kan je ook de dikte van de lijn veranderen als je `ctx.lineWidth = 5;` groter of kleiner maakt.
+
+<img src="inset name" alt="name" width="x"> <br>
+
+Deze hoofstuk heb ik er iets bij extra gezet om de gemak te verbeteren 14. Start Button Handling<br>
+En dat is de manier om op de spatiebalk te drukken als het niet lukt om met uw hand de startknop te drukken.
+
+<img src="inset name" alt="name" width="x"> <br>
+
+En als laatste haal ik naarboven hoofdstuk 16. Inactivity Check.<br>
+deze zit erin als de persoon klaar is en weg is. Gaat de webpagina na 30 seconden inactiviteit heropladen. Dit zorgt ervoor dat mensen niet binnen komen bij een blanko scherm of een scherm met lijnen.<br>
+
+<img src="inset name" alt="name" width="x"> <br>
+
+Als je de lengte van inactivety wilt veranderen doet dat aan de top van de code bij `var inactivityTimeout = 30000;`. Hier kan je de lengte korter of langer maken.
+
+<img src="inset name" alt="name" width="x">
+<br>
+<br>
 
 ### PYTHON
