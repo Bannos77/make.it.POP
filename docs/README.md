@@ -41,7 +41,13 @@ De code is ingedeeld in 4 hoofdstukken. Ik ga bij elke hoofstuk uitleggen wat ze
 De html is is niet al te ingewikkeld en bijna spreekt voorzich. Toch ga ik het een beetje uitleggen. De `<div id="overlay">` is vooral u start pagina en legt uit wat je hoe je het spel moet spelen. Daarna komt de `<div id="canvas">` en deze zocht voor de animaties en draw functies.<br>
 Natuurlijk komt de 2 scripts hierna. De eerste is is voor de animatie en de tweede is de script waar wij aan kunnen knoeien en werken.
 
+<img src="inset name" alt="name" width="x"> <br>
+
 ### CSS
+
+De css is vooral voor de start pagina. Dit gaat vooral over de `overlay` overgang animatie en hoe de tekst en startknop eruitziet.<br>
+Dat is niet alles er is een klein stukje voor de `canvas` en dat is de canvas size.<br>
+Hier kan je vooral knoeie aan de font size, welke font de tekst aantoont en de knop om het persoonlijker te maken.
 
 ### JAVASCRIPT
 
