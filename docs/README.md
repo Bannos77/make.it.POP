@@ -1,6 +1,6 @@
 # Make it POP!
 
-<img src="img/thumb.jpg" alt="video" width="800">(https://vimeo.com/1000127063?share=copy)<br>
+[<img src="img/thumb.jpg" alt="video" width="800">](https://vimeo.com/1000127063?share=copy)<br>
  (klik op de afbeelding om een video te zien)
 
 ### What is Make it POP! ?
