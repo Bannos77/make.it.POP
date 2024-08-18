@@ -96,12 +96,12 @@ Dit stukje code is hoe we onze muis kunnen laten bewegen. Ik heb ervoor gekozen 
 
 <img src="inset name" alt="name" width="x"> <br>
 
-Ook wil ik iets kort uitleggen bi:j Check for fist gesture.<br>
+Ook wil ik iets kort uitleggen bij: Check for fist gesture.<br>
 In dit stukje code heb ik het zo gezet dat als de vuist dicht is gaat hij klikken. Om te voorkomen dat dat heel snel gebeurt heb ik er nog een soort van conofrmation systeem bijgezet. Dit komt door frames controleren.
 
 <img src="inset name" alt="name" width="x"> <br>
 
-Dit kan je ook veranderen in de hoofdstuk: Check for fist gesture. Hier kan je de nummer hogerzetten als het klikken te snel gaat of lager als het te traag gebeurt.
+Dit kan je ook veranderen in de hoofdstuk: Number of consecutive frames to confirm a fist gesture. Hier kan je de nummer hogerzetten als het klikken te snel gaat of lager als het te traag gebeurt.
 
 <img src="inset name" alt="name" width="x"> <br>
 
