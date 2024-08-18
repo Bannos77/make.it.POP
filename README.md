@@ -1,5 +1,8 @@
 # Make it POP!
 
+[<img src="insert name" alt="Foto van het begin scherm" width="800">](insert link)
+ (klik op de afbeelding om een video te zien)
+
 ### What is Make it POP! ?
 
 Dit is een teken uitdaging dat is geinspireerd door een tekentechniek dat ik heb gebruikt tijdens modeltekenen.<br>
