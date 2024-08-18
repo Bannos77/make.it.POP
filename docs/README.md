@@ -86,3 +86,27 @@ Als je de lengte van inactivety wilt veranderen doet dat aan de top van de code 
 ### PYTHON
 
 Bij de python code heb ik hetzelfde gedaan als bij de javascript. Elke gedeelte van de code dat iets doet heb ik een titel gegeven. Dus ik ga een beetje hetzelfde doen als bij de vorige gedeeldte en ga stukken code eruithalen dat ik een beetje extra uitlag wil geven.<br>
+Als eerste zullen we een belangrijke naarvoren halen en dat heeft de titel: Distance threshold for detecting a fist.<br>
+Deze stuk code zorgt ervoor dat je met een vuist kan klikken. En hoe groter de nummer de dischterbij de camera je moet zijn.
+
+<img src="inset name" alt="name" width="x"> <br>
+
+Volgende is misschien handig om te weten op voorand en dat heeft de titel: Track thumb tip and control mouse movement.<br>
+Dit stukje code is hoe we onze muis kunnen laten bewegen. Ik heb ervoor gekozen dat de muis de duim volgt. Dit kan je altijd vervangen door de `id == 4:` van 4 naar een andere punt te veranderen.
+
+<img src="inset name" alt="name" width="x"> <br>
+
+Ook wil ik iets kort uitleggen bi:j Check for fist gesture.<br>
+In dit stukje code heb ik het zo gezet dat als de vuist dicht is gaat hij klikken. Om te voorkomen dat dat heel snel gebeurt heb ik er nog een soort van conofrmation systeem bijgezet. Dit komt door frames controleren.
+
+<img src="inset name" alt="name" width="x"> <br>
+
+Dit kan je ook veranderen in de hoofdstuk: Check for fist gesture. Hier kan je de nummer hogerzetten als het klikken te snel gaat of lager als het te traag gebeurt.
+
+<img src="inset name" alt="name" width="x"> <br>
+
+
+### Codes used to make this code
+
+[Video handgesture mouse control](https://www.youtube.com/watch?v=nOoKjMvvvXU&pp=ygUmcHl0aG9uIGNvZGUgZm9yIGhhbmQgZ2VzdHVyZSB0byBtb3VzZSA%3D)<br>
+[Codepen for canvas code](https://codepen.io/alexzaworski/pen/mEZvrG)
