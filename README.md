@@ -2,6 +2,13 @@
 
 ### What is Make it POP! ?
 
+Dit is een teken uitdaging dat is geinspireerd door een tekentechniek dat ik heb gebruikt tijdens modeltekenen.<br>
+<img src="inset name" alt="name" width="x"> <br>
+
+Hier bij daag ik u uit. Start de code (see "How to Use) en ga met uw hand 1m ongeveer van de webcam staan. Klik op spatie om te starten en maak een lijn tekening en als je het duft maak een vuist met de duim vooraan "to Make it POP!"<br>
+<img src="inset name" alt="name" width="x"> <br>
+
+Ik heb dit gamaakt om mijzelf met 2 dingen te helpen arm en schouderbeweging en om weer terug creatief bezig te zijn. Daardoor heb ik hiervan een simpel mini game van gemaakt dat u creatief uitdaagt en dat bijna iedereen kan doen.
 
 ### How to Use
 
@@ -19,10 +26,10 @@ Eenmaal je dit hebt gedaan kan je zegmaar de code gebruike. Dit ga ga je doen do
 <ul>Mogelijke problemen dat je kan tegen komen:<br>
 <li>Zie dat je kan connecten aan een webcam om de python code te gebruiken.</li>
 <li>Volgende is kijken hoe ver je de camera sensor wil gebruiken en verander in de code als het moet (standaard staat op +/- 1m) Anders zal het clicken met je hand moeilijk gaan. (bekijk Javascript om te zien hoe je dit moet veranderen)</li>
+<li>Zorg ervoor dat de camera maar een hand ziet anders weet hij niet welke hand hij moet gebruiken als muis en flipt die een beetje.</li>
 </ul>
 
 ## The Code
-
 
 ### HTML
 
